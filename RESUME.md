@@ -1,25 +1,36 @@
-John Evans (856) 437-0173 
-Johnevanscode@gmail.com 
+# John Evans  (856) 437-0173 
+Email- Johnevanscode@gmail.com 
+
 LinkedIn- https://www.linkedin.com/in/johnjevans215/
+
 GitHub- https://github.com/JohnEvans89?tab=repositories
 
-PROFESSIONAL SUMMARY:
-Ambitious and driven professional in digital media and programming. Experienced in small-unit management. Seeking to apply expertise in team-driven results into the technology field.
+## PROFESSIONAL SUMMARY:
+**Ambitious and driven professional in digital media and programming. Experienced in small-unit management. Seeking to apply expertise in team-driven results into the technology field.**
 
-TECHNICAL SKILLS:
-Object-Oriented Programming: Java, Python, Scala
-Web Application Development: HTML5, CSS3, JavaScript, JSP, Spring Web MVC, Tomcat, Vue.js, Bootstrap, JSON, HTTP, RESTful API’s
-Database Programming: JDBC, Table Design, SQL-DDL/DML, MS SQL, PostgreSQL, E/R diagrams, MS Access
-Development tools and techniques: Agile Development Methodologies, Unit Testing (JUnit), Integration Testing, TDD, Unix Command Line navigation, Git, Eclipse, Atom, Android Studio, Selenium, Cucumber, Visual Studio Code
-Audio-Visual: Adobe Premiere Pro, Adobe Photoshop, Adobe Encore, Final Cut Pro
+## TECHNICAL SKILLS:
+### Object-Oriented Programming: **Java, Python, Scala**
+### Web Application Development: **HTML5, CSS3, JavaScript, JSP, Spring Web MVC, Tomcat, Vue.js, Bootstrap, JSON, HTTP, RESTful API’s**
 
-EDUCATION:
-Tech Elevator                                                                                                 May 2020 - August 2020
+### Database Programming: **JDBC, Table Design, SQL-DDL/DML, MS SQL, PostgreSQL, E/R diagrams, MS Access**
+
+### Development tools and techniques: 
+
+**Agile Development Methodologies, Unit Testing (JUnit), Integration Testing, TDD, Unix Command Line navigation, Git, Eclipse, Atom, Android Studio, Selenium, Cucumber, Visual Studio Code**
+
+### Audio-Visual: 
+
+**Adobe Premiere Pro, Adobe Photoshop, Adobe Encore, Final Cut Pro**
+
+## EDUCATION:
+### Tech Elevator May 2020 - August 2020
+
 Graduated from a 14-week Java coding bootcamp. Learned how to develop dynamic web-based software systems using the Java programming language, database management, and front-end styling
-DeSales University                                                                                         August 2007 - May 2011
+
+### DeSales University August 2007 - May 2011
 Bachelor of Arts - Television and Film
 
-TECHNICAL EXPERIENCE/PROJECTS:
+## TECHNICAL EXPERIENCE/PROJECTS:
 Tech Elevator 
 Gluten-Free Brewery Finder (Denver)
 Full Stack App with a Java back-end, PostgreSQL database, and front-end written in Vue.js
@@ -40,7 +51,7 @@ Side Projects
 Java application for fans of Strongman competitions that allows for information on applying for local competitions and the results of professional and amateur competitions; results and professional athlete information stored in a PostgreSQL database
 Volunteered to create an application in Python to track data and strategize resource allocation
 
-PROFESSIONAL EXPERIENCE:
+### PROFESSIONAL EXPERIENCE:
 City of Philadelphia                                                                                        September 2012 – Present
 Correctional Officer	
 Assigned to mentor new officers and provide security/services for pre-trial and convicted inmates
